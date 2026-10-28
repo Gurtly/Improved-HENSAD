@@ -11,7 +11,6 @@ Download the latest Windows version from the **Releases** section.
 - Pinch analysis
 - Heat cascade calculations
 - Composite curves
-- Grand Composite Curve
 - Heat exchanger network design
 - Stream splitting
 - ΔTmin violation checking
